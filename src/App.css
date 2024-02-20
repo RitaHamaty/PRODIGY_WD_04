@@ -18,6 +18,9 @@
     width: 70px;
     cursor: pointer;
 }
+.item:hover{
+    background-color: rgb(190, 222, 255);
+}
 .ser{
     font-size: 25px;
     font-weight: 500;

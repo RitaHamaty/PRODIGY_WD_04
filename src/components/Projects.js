@@ -15,8 +15,8 @@ const Projects = () => {
         img: weather
     }, {
         title: 'Events Planning App', 
-        desc: 'Planning social events.',
-        techs: 'React - Bootstrap - axios - styled components - context api',
+        desc: 'Planning social events web app.',
+        techs: 'React - Bootstrap - axios - styled components - redux',
         img: events
     }, {
         title: 'Travel App', 

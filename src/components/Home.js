@@ -15,7 +15,6 @@ const Home = () => {
                     <p className='title'>I am John Doe</p>
                 </div>
             </Col>
-
         </Row>
     )
 }
